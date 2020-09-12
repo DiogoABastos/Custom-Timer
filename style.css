@@ -1,0 +1,31 @@
+body {
+  color: white;
+  background-color: green;
+}
+
+.currentTask {
+  background-color: green !important;
+}
+
+.timer {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.reps {
+  font-size: 18px;
+}
+
+.reset-button {
+  display: none;
+}
+
+.size {
+  margin-right: 10% !important;
+  margin-left: 10% !important;
+}
+
+.tasks {
+  height: 25vh;
+  overflow: auto;
+}
